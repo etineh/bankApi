@@ -7,7 +7,7 @@ import { AuthModule } from './auth/auth.module';
 import { ProfileModule } from './profile/profile.module';
 import { ConfigModule } from 'nestjs-dotenv';
 import { WithdrawModule } from './witd_dep_history.ts/witd_dep_history.module';
-import { UserService } from './user/user.service';
+
 
 @Module({
   imports: [

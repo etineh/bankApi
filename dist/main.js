@@ -17,7 +17,7 @@ async function bootstrap() {
         .build();
     const document = swagger_1.SwaggerModule.createDocument(app, config);
     swagger_1.SwaggerModule.setup('bankApi', app, document);
-    await app.listen(4000, () => {
+    await app.listen(process.env.PORT || "4000", () => {
         console.log("running on port 4000");
     });
 }

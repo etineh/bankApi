@@ -13,6 +13,7 @@ constructor(private userService: UserService){}
 
     @Get('/findAll')
     async getUser(find: FilterQuery<User> ): Promise<User[]>{
+        // console.log(process.env.CODE)
         return this.userService.get(find)
     }
 
