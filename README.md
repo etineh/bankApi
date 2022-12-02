@@ -22,14 +22,14 @@ Once you cd to the server, run the app.js
 
 To run it use - "nodemon app.js"
 
-It runs on localhost:5000
+It runs on localhost:4000
 
-Go to your chrome/brave browser or postman, on your url, run "http://localhost:5000"
+Go to your chrome/brave browser or postman, on your url, run "http://localhost:4000"
 
 Once it display an object json, then you are good to go.
 
 To get the documentation with the swagger documentation, use the link:
-http://localhost:5000/api-docs
+http://localhost:4000/api-docs
 
 
 
