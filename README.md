@@ -29,7 +29,7 @@ Go to your chrome/brave browser or postman, on your url, run "http://localhost:4
 Once it display an object json, then you are good to go.
 
 To get the documentation with the swagger documentation, use the link:
-http://localhost:4000/api-docs
+http://localhost:4000/bankApi
 
 
 
