@@ -14,11 +14,13 @@ postman to test the api (optional). You can use swagger documentation link to te
 
 open the project on your editor (preferrably VS Code)
 
-cd to server (the file name)
+cd to bankApi (the folder name)
+
+run "npm  install" on your terminal to downlaod all dependencies 
 
 Install nodemon to run the app.js automatically. To install nodemon use, "npm install -g nodemon"
 
-Once you cd to the server, run the app.js
+Once you cd to the the folder, run the app.js
 
 To run it use - "nodemon app.js"
 
