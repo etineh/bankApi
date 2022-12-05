@@ -6,7 +6,7 @@ To get started running the code on your system locally -
 
 tools required (to download)
 
-mongo compass(offline) or mongo could (online)
+mongo compass(offline) or mongo Atlas cloud (online)
 
 node (version recommended)
 
